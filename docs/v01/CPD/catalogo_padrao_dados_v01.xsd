@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<xs:schema targetNamespace="http://catalogo.governoeletronico.gov.br/v01/CPD" elementFormDefault="qualified" xmlns="http://catalogo.governoeletronico.gov.br/v01/CPD" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:annotation>
+		<xs:documentation xml:lang="pt">Esses formatos se referem apenas a transmissão de dados, 
+		não ao armazenamento em bases de dados. Os gestores dos sistemas tem liberdade para definir padrões internos
+		 de armazenamento, desde que compatíveis com os formatos de transmissão. </xs:documentation>
+	</xs:annotation>
+	<xs:element name="CPF" type="xs:nonNegativeInteger"/>
+	<xs:element name="data" type="xs:date"/><!-- Padrão AAAA-MM-DD da ISO8601:2004 ver também o http://www.w3.org/TR/NOTE-datetime -->
+	<xs:element name="nome">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="^[a-zA-ZÀ-Üà-ü|'|-]+( [a-zA-ZÀ-Üà-ü|'|-]+)+$"/>
+				<xs:maxLength value="70"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="sexo">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="0"/><!-- ISO 5218: Não conhecido-->
+				<xs:enumeration value="1"/><!-- ISO 5218: Homem-->
+				<xs:enumeration value="2"/><!-- ISO 5218: Mulher-->
+				<xs:enumeration value="9"/><!-- ISO 5218: Não aplicável-->
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+</xs:schema>
