@@ -56,7 +56,7 @@ Serviço | Órgão | Tipo Base Oficial
 
 ### Serviços interoperáveis
 
-*   [Template Documentação Serviços Interoperáveis](arquivos/Modelos/Template Documentacao Servicos Inter v1_65.pdf "Clique aqui para baixar o arquivo")
+* [Template Documentação Serviços Interoperáveis](arquivos/Modelos/Template Documentacao Servicos Inter v1_65.pdf "Clique aqui para baixar o arquivo")
 
 Modelo para documentação de Serviço Interoperável para publicação no Catálogo de Interoperabilidade
 

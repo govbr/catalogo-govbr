@@ -7,6 +7,3 @@ copyright: CC0
 repo_name: <i class="fa fa-github"></i> Contribua com os serviços
 extra_css:
   - css/extra.css
-
-extra_js:
-  - http://barra.brasil.gov.br/barra.js
