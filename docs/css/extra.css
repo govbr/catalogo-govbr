@@ -1,0 +1,7 @@
+.bs-sidebar .nav > li > a {
+	color: black;
+}
+
+.bs-sidebar.affix {
+	top: 112px;
+}
