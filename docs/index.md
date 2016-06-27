@@ -17,13 +17,13 @@ Importação de Dados - Submissão Batch - **Válido até 15/07/2016**|STN - Sec
 Manter Contas a Pagar e Receber - **Válido até 15/07/2016**|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|20/11/2013|13/08/2015|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-CPR-WebServices_2015.pdf "Clique aqui para baixar o arquivo") (524 KB)
 Manter Programação Financeira v4|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|08/05/2014|08/05/2014|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-PF-WebServices_4.pdf "Clique aqui para baixar o arquivo") (323 KB)
 Consultar Tabelas Administrativas v4|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|08/05/2014|08/05/2014|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-Tabelas-WebServices_4.pdf "Clique aqui para baixar o arquivo") (286 KB)
-SIAPE - Fita Espelho|SEGEP - Secretaria de Gestão Pública|SIAPE - Sistema de Administração de Pessoal|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|09/05/2011|12/11/2012|[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/SIAPE_FITA_ESPELHO_1.3.pdf "Clique aqui para baixar o arquivo") (122 KB)
+SIAPE - Fita Espelho|SEGEP - Secretaria de Gestão Pública|SIAPE - Sistema de Administração de Pessoal|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|09/05/2011|12/11/2012|[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/SIAPE_FITA_ESPELHO_1.3.odt "Clique aqui para baixar o arquivo") (122 KB)
 SIAPE - Web Service|SEGEP - Secretaria de Gestão Pública|SIAPE - Sistema de Administração de Pessoal|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|13/09/2010|18/04/2016|[<i style="color:red;" class="fa fa-file-archive-o" aria-hidden="true"></i>](arquivos/Documentos/DOCUMENTACAO_WS_SIAPE_NIVEL_ORGAO_ABRIL_2016.zip "Clique aqui para baixar o arquivo") (1.5 MB)
 Web Service do SIORG|SEGEP - Secretaria de Gestão Pública|SIORG - Sistema de Informações Organizacionais do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|13/09/2010|04/03/2015|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://governoeletronico.gov.br/biblioteca/arquivos/documentacao-do-novo-web-service-siorg-versao-1.1/ "Clique aqui para baixar o arquivo") (678 KB)
 Fornecimento de Informações Cadastrais|RFB - Receita Federal do Brasil|InfoConv - Sistema de Informações para Convenentes|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|03/06/2013|03/06/2013|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/Convenio RFB.pdf "Clique aqui para baixar o arquivo") (220 KB)
 Sistema Eletrônico do Serviço de Informações ao Cidadão - e-Sic|CGU - Controladoria-Geral da União|Sistema Eletrônico do Serviço de Informações ao Cidadão - e-Sic|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|16/07/2014|16/07/2014|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/ws-e-sic-documentacao.pdf "Clique aqui para baixar o arquivo") (498 KB)
 Séries Temporais|BCB - Banco Central do Brasil|Sistema Gerenciador de Séries Temporais - SGS|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|23/07/2014|23/07/2014|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/WS_SGS_BCB.pdf "Clique aqui para baixar o arquivo") (225 KB)
-Envio de Matérias para Imprensa Nacional |Imprensa Nacional |INCOM - Envio de matérias |Não é Base Oficial<i style="color:red;" class="fa fa-times"></i> |22/01/2015 |22/01/2015 |[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/Documentacao Servicos IN.pdf "Clique aqui para baixar o arquivo") (131 KB)
+Envio de Matérias para Imprensa Nacional |Imprensa Nacional |INCOM - Envio de matérias |Não é Base Oficial<i style="color:red;" class="fa fa-times"></i> |22/01/2015 |22/01/2015 |[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/Documentacao Servicos IN.odt "Clique aqui para baixar o arquivo") (131 KB)
 
 
 ##  Catálogo Padrão de Dados
@@ -56,17 +56,17 @@ Serviço | Órgão | Tipo Base Oficial
 
 ### Serviços interoperáveis
 
-* [Template Documentação Serviços Interoperáveis](arquivos/Modelos/Template Documentacao Servicos Inter v1_65.pdf "Clique aqui para baixar o arquivo")
+* [Template Documentação Serviços Interoperáveis](arquivos/Modelos/Template Documentacao Servicos Inter v1_65.odt "Clique aqui para baixar o arquivo")
 
 Modelo para documentação de Serviço Interoperável para publicação no Catálogo de Interoperabilidade
 
-* [Plano de Acesso e Acordo de Nível de Serviço](arquivos/Modelos/Plano de Acesso - ANS.pdf "Clique aqui para baixar o arquivo")
+* [Plano de Acesso e Acordo de Nível de Serviço](arquivos/Modelos/Plano de Acesso - ANS.odt "Clique aqui para baixar o arquivo")
 
 Modelo para definição de Plano de Acesso para serviços ofertados para outros órgãos com um Acordo de Nível de Serviço básico.
 
 ### Base de Dados Oficiais
 
-* [Termo de Solicitação de Acesso](arquivos/Modelos/TermoSolicitacaoAcesso.pdf "Clique aqui para baixar o arquivo")
+* [Termo de Solicitação de Acesso](arquivos/Modelos/TermoSolicitacaoAcesso.odt "Clique aqui para baixar o arquivo")
 
 Modelo de Termo para Solicitação de Acesso a uma determinada Base Oficial que ainda não tenha sido disponibilizada.
 
