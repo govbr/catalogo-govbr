@@ -1,0 +1,13 @@
+sudo: false
+language: python
+python: '2.7'
+script:
+- git config user.name "Carlos Vieira"
+- git config user.email "edu.carlos.vieira@gmail.com"
+- git remote add gh-token "https://${GH_TOKEN}@github.com/govbr/catalogo-govbr.git";
+- git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+- pip install mkdocs -U;
+- mkdocs gh-deploy -v --clean --remote-name gh-token;
+env:
+  global:
+    secure: baYJEL9wE0qrvBiZm20J0zJBVue63pFlyoTd1VcRGdgF/DUQY2XMdv+8mFXAK9qOo994dn47VZSnhA3i/O6dk2/mN8HPEwg5N6Uwz2SMyP4XZrQEDROhNVKcUiIcznXZt3hRD2NXJptsGai+2tTporq7W0h8qXoMDblRn9Ega5N88qNZCZMuoUoJJbrut6Fko92MYSAarSqd/+bQSoZgivmFS+M1XiTW0gvUINrcbP5hhM/1Uk5PBJuy8Hfpetr7cfZcmxP26wwjAoZGj8mSccUA1k+JUiC3rZlvLMWMaLlYkJS4H4yBjgBNY30DP1nzjODcmPcN1NUTsMTUTV/KtPbOPdXJQDb09GTkTZItxJgIav9EQIh0XgAodxbZx/UHXTY9CckQwfvRvFSU8VubQsrZ4Q1Uc0lzez8p5F4KAd9LF8NZX2UlxCzXG3+xzNHO+VagF7hjyaskMu1GoYd4YdQz9EuHAYxibOael52LH5Jejizapa2OfZR/s4G7In6HgbP2f+vHZIg+Vl1jkNo9d4XE4ri/4YluapxI452vg+4+6HfHhbSNZIaP14nVPGejSeCG1e6Axbwjp+nJysSl0oSaqTIEw/jgRy6Y55T/vjSaaiSsb6dl2nHPsByb7jTlQ2y5tzpXtdT5zMV6+EIW6PQ58G2wk4qqZAFZ4IcIjrY=
