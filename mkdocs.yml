@@ -5,5 +5,10 @@ repo_url: https://github.com/govbr/catalogo-govbr/
 site_description: Catálogo de Serviços interoperáveis do Governo Federal Brasileiro.
 copyright: CC0
 repo_name: <i class="fa fa-github"></i> Contribua com os serviços
+site_author: Ministério do Planejamento, Orçamento e Desenvolvimento
+extra:
+  siorg: http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981
+
 extra_css:
   - css/extra.css
+
