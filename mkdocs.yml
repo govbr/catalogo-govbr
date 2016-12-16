@@ -1,25 +1,14 @@
-site_name: Manual Catálogo de Inventário do Governo Federal
-theme: readthedocs
+site_name: Catálogo de Interoperabilidade
+theme: mkdocs
+theme_dir: default_ptbr
 repo_url: https://github.com/govbr/catalogo-govbr/
-site_description: Manual do Catálogo de Inventário do Governo Federal Brasileiro.
+site_description: Catálogo de Serviços interoperáveis do Governo Federal Brasileiro.
 copyright: CC0
-repo_name: <i class="fa fa-github"></i> Contribua com o Manual
+repo_name: <i class="fa fa-github"></i> Contribua com os serviços
 site_author: Ministério do Planejamento, Orçamento e Desenvolvimento
 extra:
   siorg: http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981
 
-pages:
-- Início: 'index.md'
-- Inventário:
-    - 'Catalogando Inventário de bases de dados': 'catalogando/inventario.md'
-    - 'Adicionar dados': 'catalogando/adicionar-dados.md'
-
 extra_css:
   - css/extra.css
-
-markdown_extensions:
-  - admonition
-  - def_list
-  - footnotes
-  - smarty
 
