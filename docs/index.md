@@ -1,79 +1,41 @@
 
 <a id="topo"></a>
 
-# Catálogo de Interoperabilidade
+# Manual de Catálogo de Inventário de Bases do Governo Federal
 
-Esse catálogo contém alguns dos serviços do governo federal brasileiro para uso pelos órgãos ou cidadãos. Alguns dos serviços pode necessitar de autorização para seu uso.
+Esse manual serve como orientação para catalogação das bases de dados do Governo Federal Brasileiro. 
 
-##  Catálogo de Serviços Interoperáveis
-
-Serviço|Órgão|Sistema|Base Oficial?|Data Inclusão|Data Alteração|Documentação
------------- | ------------- | ------------ | ------------- | ------------ | ------------- | -------------
-Consulta a Títulos do Tesouro|STN - Secretaria do Tesouro Nacional|Títulos – Títulos do Tesouro|Não é Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|27/09/2010|27/09/2010| [<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/TitulosTesouro-DocumentacaoWebService.pdf "Clique aqui para baixar o arquivo") (61 KB)
-Extrator de Dados|SEGEP - Secretaria de Gestão Pública|SIAPE - Sistema de Administração de Pessoal|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|27/07/2011|12/11/2012|[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/SIAPE_EXTRATOR_1.2.odt "Clique aqui para baixar o arquivo") (121 KB)
-Importação de Dados - Submissão Batch - **Válido a partir de 18/07/2016**|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|20/11/2013|23/06/2016|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-SubmissaoBatch.pdf "Clique aqui para baixar o arquivo") (438 KB)
-Manter Contas a Pagar e Receber - **Válido a partir de 18/07/2016**|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal |Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|20/11/2013|23/06/2016|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-CPR-WebServices.pdf "Clique aqui para baixar o arquivo") (517 KB)
-Importação de Dados - Submissão Batch - **Válido até 15/07/2016**|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|20/11/2013|13/08/2015|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-SubmissaoBatch_2015.pdf "Clique aqui para baixar o arquivo") (483 KB)
-Manter Contas a Pagar e Receber - **Válido até 15/07/2016**|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|20/11/2013|13/08/2015|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-CPR-WebServices_2015.pdf "Clique aqui para baixar o arquivo") (524 KB)
-Webservice para Consulta de Guias de Recolhimentos da União |STN - Secretaria do Tesouro Nacional|Sistema de Gestão de Recolhimento da União - SISGRU |Não é Base Oficial<i style="color:red;" class="fa fa-times"></i> |05/10/2016 |05/10/2016 |[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/SISGRU-Interface Webservice.doc "Clique aqui para baixar o arquivo") (40 KB)
-Manter Programação Financeira v5|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|08/05/2014|20/09/2016|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-PF-WebServices.pdf "Clique aqui para baixar o arquivo") (323 KB)
-Consultar Tabelas Administrativas v5|STN - Secretaria do Tesouro Nacional|Novo SIAFI - Sistema Integrado de Administração Financeira do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|08/05/2014|20/09/2016|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/NovoSiafi-PIE-Tabelas-WebServices.pdf "Clique aqui para baixar o arquivo") (351 KB)
-SIAPE - Fita Espelho|SEGEP - Secretaria de Gestão Pública|SIAPE - Sistema de Administração de Pessoal|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|09/05/2011|12/11/2012|[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/SIAPE_FITA_ESPELHO_1.3.odt "Clique aqui para baixar o arquivo") (122 KB)
-SIAPE - Web Service|SEGEP - Secretaria de Gestão Pública|SIAPE - Sistema de Administração de Pessoal|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|13/09/2010|18/04/2016|[<i style="color:red;" class="fa fa-file-archive-o" aria-hidden="true"></i>](arquivos/Documentos/DOCUMENTACAO_WS_SIAPE_NIVEL_ORGAO_ABRIL_2016.zip "Clique aqui para baixar o arquivo") (1.5 MB)
-Web Service do SIORG|SEGEP - Secretaria de Gestão Pública|SIORG - Sistema de Informações Organizacionais do Governo Federal|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|13/09/2010|04/03/2015|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://governoeletronico.gov.br/biblioteca/arquivos/documentacao-do-novo-web-service-siorg-versao-1.1/ "Clique aqui para baixar o arquivo") (678 KB)
-Fornecimento de Informações Cadastrais|RFB - Receita Federal do Brasil|InfoConv - Sistema de Informações para Convenentes|Base Oficial<i style="color:green;" class="fa fa-check" aria-hidden="true"></i>|03/06/2013|03/06/2013|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/Convenio RFB.pdf "Clique aqui para baixar o arquivo") (220 KB)
-Sistema Eletrônico do Serviço de Informações ao Cidadão - e-Sic|CGU - Controladoria-Geral da União|Sistema Eletrônico do Serviço de Informações ao Cidadão - e-Sic|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|16/07/2014|16/07/2014|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/ws-e-sic-documentacao.pdf "Clique aqui para baixar o arquivo") (498 KB)
-Séries Temporais|BCB - Banco Central do Brasil|Sistema Gerenciador de Séries Temporais - SGS|Não é Base Oficial<i style="color:red;" class="fa fa-times"></i>|23/07/2014|23/07/2014|[<i style="color:red;" class="fa fa-file-pdf-o" aria-hidden="true"></i>](arquivos/Documentos/WS_SGS_BCB.pdf "Clique aqui para baixar o arquivo") (225 KB)
-Envio de Matérias para Imprensa Nacional |Imprensa Nacional |INCOM - Envio de matérias |Não é Base Oficial<i style="color:red;" class="fa fa-times"></i> |22/01/2015 |03/11/2016 |[<i style="color:red;" class="fa fa-file-text-o" aria-hidden="true"></i>](arquivos/Documentos/Documentacao Servicos IN.odt "Clique aqui para baixar o arquivo") (131 KB)
+!!! caution "Atenção"
+    Atenção esse manual não trata de dados abertos ou de aplicativos catalogados no portal de dados.
 
 
-##  Catálogo Padrão de Dados
+## Público Alvo
 
-O Catálogo Padrão de Dados tem por objetivo estabelecer padrões de tipos e itens de dados que se aplicam às interfaces dos sistemas que fazem parte do setor público, estando divido em dois volumes:
+As pessoas que são responsáveis pela [LAI](http://www.acessoainformacao.gov.br/assuntos/conheca-seu-direito/a-lei-de-acesso-a-informacao "Informações sobre a Lei de Acesso a Informação") são os mesmos que devem catalogar o inventário de bases do governo federal.
 
-*   [Volume 1](arquivos/CPD_Principios_Gerais_Volume_1.pdf "Clique aqui para baixar o arquivo"), que estabelece os princípios gerais, isto é, processo de seleção de padrões, informações que serão padronizadas e demais detalhes; e
-*   [Volume 2](arquivos/CPD_Volume_2.pdf "Clique aqui para baixar o arquivo") e [anexo](arquivos/CPD_Volume_2_Anexo.pdf "Clique aqui para baixar o arquivo"), que apresenta os Tipos e Item de Dados padronizados.
-*   [XSD](v01/CPD/catalogo_padrao_dados_v01.xsd) representando o volume 2 do Catálogo Padrão de Dados.
+## Primeiro acesso
 
+A catalogação de dados no portal é realizada por pessoas dos órgãos indicados pelos órgãos que são previamente cadastrados no portal para essa atividade. Esse servidor é o mesmo indicado para catalogar Dados Abertos pela LAI.
 
-## Bases Oficiais
+A solicitação para catalogação no Portal Brasileiro de Dados somente poderá ocorrer pelos diretores de tecnologia da informação, coordenadores-gerais de tecnologia da informação ou pelos coordenadores das áreas finalísticas e devem ser encaminhadas para o e-mail: <contato@dados.gov.br>
 
-Abaixo estão listados serviços eletrônicos que atendem ao [Decreto Cidadão](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6932.htm) em relação a dados comprobatórios de pessoa física.
-
-_Obs.: Caso seu órgão possua algum serviço eletrônico que disponibilize dados comprobatórios de pessoa física e que não esteja listado abaixo, favor contribuir com o serviço no [https://github.com/govbr/catalogo-govbr/](https://github.com/govbr/catalogo-govbr/) informando o nome do serviço, órgão gestor, tipo de dado comprobatório fornecido pelo serviço e link para acesso ao serviço ou a sua documentação._
+Após o cadastro do responsável pelos conjuntos de dados do órgão no Portal Brasileiro de Dados, será enviado, automaticamente, o “Nome de usuário​” e “Senha​” para que o mesmo realize a catalogação no Portal.[^1]
 
 
-Serviço | Órgão | Tipo Base Oficial
------------- | ------------- | -------------
-[SIAPE - Extrator de Dados](#catalogo-de-servicos-interoperaveis)| SEGEP - Secretaria de Gestão Pública | Comprovante de rendimento
-[SIAPE - Fita Espelho](#catalogo-de-servicos-interoperaveis) | SEGEP - Secretaria de Gestão Pública | Comprovante de rendimento
-[SIAPE - Web Service](#catalogo-de-servicos-interoperaveis) | SEGEP - Secretaria de Gestão Pública | Comprovante de rendimento
-[Situação Cadastral no CPF](http://www.receita.fazenda.gov.br/Aplicacoes/ATCTA/CPF/ConsultaPublica.asp) |RFB - Receita Federal do Brasil |Comprovante de Situação Cadastral no CPF
-[Consulta à base de CPF](#catalogo-de-servicos-interoperaveis) |RFB - Receita Federal do Brasil | Comprovante de Situação Cadastral no CPF
-[Situação Eleitoral - Consulta por nome](http://www.tse.jus.br/eleitor/situacao-eleitoral/consulta-por-nome)|Tribunal Superior Eleitoral|Situação Eleitoral
-[Situação Eleitoral - Consulta por título](http://www.tse.jus.br/eleitor/situacao-eleitoral/consulta-por-titulo)|Tribunal Superior Eleitoral|Situação Eleitoral
 
-##  Modelos de Documentos
+##  Como acessar
 
-### Serviços interoperáveis
+O responsável pela catalogação receberá um e-mail, enviado automaticamente pelo Portal Brasileiro de Dados com as informações de acesso. O usuário deverá
+acessar a área de autenticação do [portal](http://www.dados.gov.br/user/login "Fazer login no portal de dados") e preencher os campos “Nome de usuário​” e “Senha​”, de acordo com as informações recebidas por e-mail.
 
-* [Template Documentação Serviços Interoperáveis](arquivos/Modelos/Template Documentacao Servicos Inter v1_65.odt "Clique aqui para baixar o arquivo")
+![Tela de Login do Portal de Dados](imagens/Tela_Login.png)
 
-Modelo para documentação de Serviço Interoperável para publicação no Catálogo de Interoperabilidade
+##  Alterando seu perfil
 
-* [Plano de Acesso e Acordo de Nível de Serviço](arquivos/Modelos/Plano de Acesso - ANS.odt "Clique aqui para baixar o arquivo")
+Para verificar como alterar seu perfil por favor acesse o [Manual de Catalogação de Dados Abertos](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=%2fManual%20de%20Cataloga%c3%a7%c3%a3o%2fManual-de-Cataloga%c3%a7%c3%a3o-v1.0.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1)
 
-Modelo para definição de Plano de Acesso para serviços ofertados para outros órgãos com um Acordo de Nível de Serviço básico.
-
-### Base de Dados Oficiais
-
-* [Termo de Solicitação de Acesso](arquivos/Modelos/TermoSolicitacaoAcesso.odt "Clique aqui para baixar o arquivo")
-
-Modelo de Termo para Solicitação de Acesso a uma determinada Base Oficial que ainda não tenha sido disponibilizada.
-
-## Contato
-
-Para sugestões, dúvidas, críticas ou atualização de documentação de algum Serviço Interoperável, entre em contato através do e-mail **eping@planejamento.gov.br.**
+[^1]:
+    Fonte: [Manual de Catalogação](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=%2fManual%20de%20Cataloga%c3%a7%c3%a3o%2fManual-de-Cataloga%c3%a7%c3%a3o-v1.0.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1) CC4.0 BY-ND
 
 
 [Topo](#topo "Ir para o topo")
