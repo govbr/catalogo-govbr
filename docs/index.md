@@ -8,7 +8,7 @@ Esse catálogo está sendo alterado para atender ao Decreto 8789/2016. Por favor
 
 ## Contato
 
-Para sugestões, dúvidas, críticas ou atualização de documentação de algum Serviço Interoperável, entre em contato através do e-mail **eping@planejamento.gov.br.**
+Para sugestões, dúvidas, críticas entre em contato através do e-mail **eping@planejamento.gov.br.**
 
 
 [Topo](#topo "Ir para o topo")
